@@ -40,7 +40,7 @@ Make sure you have the following installed:
 
 📥 Project Setup
 🔹 Step 1: Clone the Repository
-git clone https://github.com/Omkarkawale045/Virtual-AI-Assistant.git
+git clone https://github.com/chaudharigauri23/Virtual-AI-Assistant.git
 cd Virtual-AI-Assistant
 
 ⚙️ Backend Configuration
